@@ -7,7 +7,6 @@ Certifique-se de ter as seguintes ferramentas instaladas em seu ambiente de dese
 
 - [Java 17](https://www.oracle.com/java/technologies/javase-jdk17-downloads.html)
 - [Node.js](https://nodejs.org/)
-- [Angular CLI](https://angular.io/cli)
 - [Maven](https://maven.apache.org/)
 
 
